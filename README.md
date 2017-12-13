@@ -1,8 +1,6 @@
 # digital-roulette
 The russian roulette.
 
+State -> Curently in developpement 
 
-
-
-
-Curently in developpement C game make with SDL 2.0
+C game make with SDL 2.0
